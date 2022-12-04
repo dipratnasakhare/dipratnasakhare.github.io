@@ -17,7 +17,6 @@ he also  full stack web development he lear by cat he is java developer after hi
 
 
 
- <img src="https://i.imgur.com/NxxscUm.jpg" alt="dipratnasakhare" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipratnasakhare&label=Profile%20views&color=0e75b6&style=flat" alt="dipratnasakhare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipratnasakhare" alt="dipratnasakhare" /></a> </p>
