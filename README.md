@@ -1,9 +1,7 @@
 # dipratnasakhare.github.io
 
 <h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
-<h3 align="center">Learning MERN Stack</h3>
 
-Linkedin www.linkedin.com/in/dipratna-sakhare
 
 <!---
 dipratnasakhare/dipratnasakhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +26,7 @@ he also  full stack web development he lear by cat he is java developer after hi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipratna-sakhare" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare" target="blank">hgjghj<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipratna-sakhare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rickysakhare677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rickysakhare677" height="30" width="40" /></a>
 </p>
 
