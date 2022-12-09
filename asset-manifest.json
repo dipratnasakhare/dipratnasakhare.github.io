@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.efb3f465.js",
+    "main.js": "/static/js/main.707c2014.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/dreamstrore.png": "/static/media/dreamstrore.50ed2878bd831c4b44b1.png",
+    "static/media/Bluemecurry.png": "/static/media/Bluemecurry.295c840110190650ddd1.png",
+    "static/media/bestbuy.png": "/static/media/bestbuy.c8ab53c0925bf0b8c12b.png",
+    "static/media/profile.JPG": "/static/media/profile.7b8d37d2def682a7ff30.JPG",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.efb3f465.js.map": "/static/js/main.efb3f465.js.map",
+    "main.707c2014.js.map": "/static/js/main.707c2014.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.efb3f465.js"
+    "static/js/main.707c2014.js"
   ]
 }
